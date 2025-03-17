@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sohailahmed-1469.github.io/react_application/",
+  "homepage": "https://sohailahmed-1469.github.io/react_application/project2",
   "scripts": {
     "dev": "vite",
     "lint": "eslint .",
